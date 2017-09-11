@@ -3,7 +3,6 @@
     Date: 11 Sept 2017
     Find bitmask that uniquely identifies every binary representation
     from the input. Compile with -std=c++11
-
     https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2146
 */
 
