@@ -1,3 +1,10 @@
+/*
+ 	Author: Andreea Musat
+	Date: 20 sept 2017
+	
+	https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3798
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
