@@ -73,3 +73,4 @@ int main()
 		cout << "Case " << test_no++ << ": " << total_cost_sum << " " << crt_node << "\n";
 	}
 }
+
