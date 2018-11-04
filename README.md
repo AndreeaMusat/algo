@@ -1,2 +1,2 @@
-# uva
-uva online judge solved problems
+# Algo
+Problems solved on different online judges
